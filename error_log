@@ -1,0 +1,306 @@
+[04-Oct-2021 20:24:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/laptopac/public_html/profile_edit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/laptopac/public_html/profile_edit.php on line 8
+[04-Oct-2021 20:25:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/laptopac/public_html/profile_edit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/laptopac/public_html/profile_edit.php on line 8
+[04-Oct-2021 20:26:10 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 41
+[04-Oct-2021 20:26:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 20:26:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 20:28:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/laptopac/public_html/profile_edit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/laptopac/public_html/profile_edit.php on line 8
+[04-Oct-2021 21:38:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/laptopac/public_html/profile_edit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/laptopac/public_html/profile_edit.php on line 8
+[04-Oct-2021 21:38:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/laptopac/public_html/profile_edit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/laptopac/public_html/profile_edit.php on line 8
+[04-Oct-2021 21:38:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/laptopac/public_html/profile_edit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/laptopac/public_html/profile_edit.php on line 8
+[04-Oct-2021 21:38:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/laptopac/public_html/profile_edit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/laptopac/public_html/profile_edit.php on line 8
+[04-Oct-2021 21:43:36 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[04-Oct-2021 21:43:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 21:43:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 21:44:53 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[04-Oct-2021 21:44:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 21:44:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 21:44:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[04-Oct-2021 21:44:54 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[04-Oct-2021 21:44:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 21:44:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 21:44:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[04-Oct-2021 21:44:55 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[04-Oct-2021 21:44:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 21:44:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[04-Oct-2021 21:44:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[04-Oct-2021 21:45:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/laptopac/public_html/profile_edit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/laptopac/public_html/profile_edit.php on line 8
+[05-Oct-2021 09:55:30 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 09:55:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 09:55:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 09:55:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 09:55:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 09:55:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 09:55:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 09:55:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 09:55:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 09:55:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 09:55:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 09:55:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 09:55:55 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 09:55:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 09:55:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 09:55:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 09:55:56 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 09:55:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 09:55:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 09:55:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:05:25 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:05:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:05:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:05:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:05:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:05:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:07:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:07:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:07:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:07:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:07:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:07:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:32:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:32:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:32:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:32:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:32:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:32:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:32:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:32:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:32:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:32:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:32:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:32:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:33:00 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 10:33:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:33:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:33:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:33:00 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 10:33:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:33:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:33:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:34:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:34:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:34:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:34:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:34:45 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:34:47 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 10:35:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:35:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:35:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:35:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:35:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:35:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:39:23 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 10:39:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:39:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:39:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 10:39:26 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 10:39:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:39:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 10:39:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 11:33:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:33:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:33:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:33:11 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:33:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:33:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:33:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:33:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:33:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 11:33:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:33:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:33:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 11:34:04 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 11:34:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:34:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:34:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 11:34:05 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 11:34:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:34:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:34:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 11:34:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:34:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:34:45 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:34:46 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:34:47 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:34:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 11:34:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:34:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:34:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 11:34:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:34:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:34:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 11:35:21 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 11:35:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:35:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:35:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 11:35:21 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 11:35:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:35:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 11:35:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 12:22:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:22:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:22:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:22:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:22:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:22:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:23:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:23:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:23:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 12:23:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:23:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:23:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 12:23:18 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 12:23:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:23:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:23:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 12:23:18 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 12:23:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:23:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:23:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 12:25:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:25:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:25:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:25:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:25:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:25:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 12:26:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:26:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:26:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 12:26:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:26:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:26:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 12:26:44 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 12:26:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:26:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:26:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 12:26:45 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 12:26:45 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:26:45 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 12:26:45 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 13:15:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:15:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:15:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:15:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:15:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:15:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:16:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:16:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:16:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 13:16:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:16:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:16:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 13:16:19 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 13:16:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:16:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:16:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 13:16:19 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 13:16:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:16:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:16:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 13:20:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:20:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:21:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:21:25 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:21:30 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:21:30 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[05-Oct-2021 13:22:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:22:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:22:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 13:22:02 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:22:02 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:22:02 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 13:27:10 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 13:27:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:27:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:27:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 13:27:18 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[05-Oct-2021 13:27:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:27:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 13:27:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[05-Oct-2021 17:34:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 17:34:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[05-Oct-2021 17:34:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[06-Oct-2021 12:57:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $list_product in /home/laptopac/public_html/product_search.php on line 25
+[06-Oct-2021 15:14:29 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[06-Oct-2021 15:14:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[06-Oct-2021 15:14:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[06-Oct-2021 15:14:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[06-Oct-2021 15:14:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[06-Oct-2021 15:14:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[06-Oct-2021 15:53:47 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[06-Oct-2021 15:53:47 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[06-Oct-2021 15:53:47 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[06-Oct-2021 15:57:27 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/include/header.php:106) in /home/laptopac/public_html/order.php on line 8
+[07-Oct-2021 02:01:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[07-Oct-2021 02:01:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[07-Oct-2021 02:01:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[07-Oct-2021 02:01:22 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[07-Oct-2021 02:01:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[07-Oct-2021 02:01:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[07-Oct-2021 02:01:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[07-Oct-2021 02:01:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[12-Oct-2021 08:43:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[12-Oct-2021 08:43:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[12-Oct-2021 08:43:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[12-Oct-2021 08:44:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[12-Oct-2021 08:45:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[12-Oct-2021 08:45:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[12-Oct-2021 08:45:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[14-Oct-2021 00:45:36 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[14-Oct-2021 00:45:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[14-Oct-2021 00:45:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[14-Oct-2021 00:47:35 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[14-Oct-2021 00:47:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[14-Oct-2021 00:47:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[14-Oct-2021 11:15:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[14-Oct-2021 14:29:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[14-Oct-2021 14:32:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[14-Oct-2021 16:52:49 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/include/header.php:90) in /home/laptopac/public_html/order.php on line 8
+[17-Oct-2021 21:17:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[17-Oct-2021 21:17:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[17-Oct-2021 21:17:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[17-Oct-2021 21:17:10 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[17-Oct-2021 21:17:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[17-Oct-2021 21:17:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[17-Oct-2021 21:17:26 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/include/header.php:90) in /home/laptopac/public_html/order.php on line 8
+[21-Oct-2021 00:46:15 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[21-Oct-2021 00:46:15 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[21-Oct-2021 00:46:15 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[21-Oct-2021 00:46:17 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[21-Oct-2021 00:46:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[21-Oct-2021 00:46:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[21-Oct-2021 00:46:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[22-Oct-2021 22:32:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[22-Oct-2021 22:32:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[22-Oct-2021 22:32:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[22-Oct-2021 22:32:59 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[22-Oct-2021 22:32:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[22-Oct-2021 22:32:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[22-Oct-2021 22:32:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $qty in /home/laptopac/public_html/payment.php on line 58
+[25-Oct-2021 12:03:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $img in /home/laptopac/public_html/list_product_by_brand.php on line 25
+[29-Oct-2021 09:06:44 Asia/Ho_Chi_Minh] PHP Warning:  Attempt to read property "num_rows" on bool in /home/laptopac/public_html/library/database.php on line 44
+[29-Oct-2021 09:06:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56
+[29-Oct-2021 09:06:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $subtotal in /home/laptopac/public_html/payment.php on line 56

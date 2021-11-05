@@ -1,0 +1,25 @@
+.my-5-self {
+    margin-top: 12rem!important
+}
+
+.my-5-1 {
+    margin-top: 10rem!important
+}
+
+.text_center {
+    text-align: center;
+    align-items: center;
+}
+
+.image_product {
+    width: 300px;
+}
+
+.btn_1 {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}

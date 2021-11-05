@@ -1,0 +1,312 @@
+                <li class="product type-product">
+                    <div class="product_outer">
+                        <div class="product-inner product-item__inner">
+                            <a href="#">
+                                <div class="product-thumbnail">
+                                    <span class="sale">
+                                    -
+                                    <span id="giamgia" class="phan_tram">
+                                        3%
+                                    </span>
+                                    </span>
+                                    <img width="300" height="300" src="./admin/uploads/3301/3301_0.jpg" class="img_thumbail">
+                                </div>
+                                <div class="product_body">
+                                    <div href="#">
+                                        <h2 class="product_title">Laptop Asus ROG Strix G15 G513QE-HN010T Geforce RTX 3050Ti 4GB AMD R7 5800H 16GB 512GB 15.6″ 144Hz FHD IPS 4 Zones Win 10</h2>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="product_price">
+                                <div class="price_discount">
+                                    <span class="giamgia" id="gia2">
+                                        24,000,000<sup>đ</sup>
+                                    </span>
+                                    <a href="#" class="giohang" aria-label="Thêm vào giỏ hàng">
+                                        <i class="bi bi-cart-plus-fill"></i>
+                                    </a>
+                                </div>
+                                <div class="price_non-discount">
+                                    27,000,000<sup>đ</sup>
+                                </div>
+                            </div>
+                            <!-- Cấu hình chi tiết -->
+                            <div style="display: block;width: 100%;">
+                                <div class="product_info">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td class="left_item"><img src="./img/icon/cpu.png" alt="cpu"></td>
+                                                <td class="right_item">Ryzen 7 5800H</td>
+                                                <td class="left_item"><img src="./img/icon/gpu.png" alt="gpu"></td>
+                                                <td class="right_item">RTX 3050Ti</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="left_item"><img src="./img/icon/ram.png" alt="ram"></td>
+                                                <td class="right_item">16 GB DDR4</td>
+                                                <td class="left_item"><img src="./img/icon/ssd.png" alt="ssd"></td>
+                                                <td class="right_item">SSD 512GB</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="left_item"><img src="./img/icon/weight.png" alt="weight"></td>
+                                                <td class="right_item">2.5kg</td>
+                                                <td class="left_item"><img src="./img/icon/size.png" alt="size"></td>
+                                                <td class="right_item">15,6" 144Hz</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <!-- Cấu hình chi tiết -->
+                        </div>
+                    </div>
+                </li>
+
+                <li class="product type-product">
+                    <div class="product_outer">
+                        <div class="product-inner product-item__inner">
+                            <a href="#">
+                                <div class="product-thumbnail">
+                                    <span class="sale">
+                                    -
+                                    <span id="giamgia" class="phan_tram">
+                                        3%
+                                    </span>
+                                    </span>
+                                    <img width="300" height="300" src="./img/rog scar 1/Scar-15-2-300x300.jpg" class="img_thumbail">
+                                </div>
+                                <div class="product_body">
+                                    <div href="#">
+                                        <h2 class="product_title">Laptop Asus ROG Strix Scar 15 G533QR-HQ098T Geforce RTX 3070 8GB AMD Ryzen 9 5900HX 16GB 1TB 15.6″ WQHD IPS 165Hz Optical Keyboard RGB Win 10</h2>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="product_price">
+                                <div class="price_discount">
+                                    <span class="giamgia" id="gia2">
+                                        24,000,000<sup>đ</sup>
+                                    </span>
+                                    <a href="#" class="giohang" aria-label="Thêm vào giỏ hàng">
+                                        <i class="bi bi-cart-plus-fill"></i>
+                                    </a>
+                                </div>
+                                <div class="price_non-discount">
+                                    27,000,000<sup>đ</sup>
+                                </div>
+                            </div>
+                            <!-- Cấu hình chi tiết -->
+                            <div style="display: block;width: 100%;">
+                                <div class="product_info">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td class="left_item"><img src="./img/icon/cpu.png" alt="cpu"></td>
+                                                <td class="right_item">Ryzen 7 5800H</td>
+                                                <td class="left_item"><img src="./img/icon/gpu.png" alt="gpu"></td>
+                                                <td class="right_item">RTX 3060</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="left_item"><img src="./img/icon/ram.png" alt="ram"></td>
+                                                <td class="right_item">16 GB DDR4</td>
+                                                <td class="left_item"><img src="./img/icon/ssd.png" alt="ssd"></td>
+                                                <td class="right_item">SSD 512GB</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="left_item"><img src="./img/icon/weight.png" alt="weight"></td>
+                                                <td class="right_item">2.5kg</td>
+                                                <td class="left_item"><img src="./img/icon/size.png" alt="size"></td>
+                                                <td class="right_item">15.6" 2K 165Hz</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <!-- Cấu hình chi tiết -->
+                        </div>
+                    </div>
+                </li>
+
+                <li class="product type-product">
+                    <div class="product_outer">
+                        <div class="product-inner product-item__inner">
+                            <a href="#">
+                                <div class="product-thumbnail">
+                                    <span class="sale">
+                                    -
+                                    <span id="giamgia" class="phan_tram">
+                                        3%
+                                    </span>
+                                    </span>
+                                    <img width="300" height="300" src="./img/tuf gaming 1/TUF-no-RTX-300x300.jpg" class="img_thumbail">
+                                </div>
+                                <div class="product_body">
+                                    <div href="#">
+                                        <h2 class="product_title">Laptop Gaming Asus TUF F15 FX506LI-HN096T Geforce GTX 1650Ti 4GB Intel Core i7 10870H 8GB 512GB 15.6″ 144Hz IPS Win 10 Gray Metal RGB</h2>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="product_price">
+                                <div class="price_discount">
+                                    <span class="giamgia" id="gia2">
+                                        24,000,000<sup>đ</sup>
+                                    </span>
+                                    <a href="#" class="giohang" aria-label="Thêm vào giỏ hàng">
+                                        <i class="bi bi-cart-plus-fill"></i>
+                                    </a>
+                                </div>
+                                <div class="price_non-discount">
+                                    27,000,000<sup>đ</sup>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+
+                <li class="product type-product">
+                    <div class="product_outer">
+                        <div class="product-inner product-item__inner">
+                            <a href="#">
+                                <div class="product-thumbnail">
+                                    <span class="sale">
+                                    -
+                                    <span id="giamgia" class="phan_tram">
+                                        3%
+                                    </span>
+                                    </span>
+                                    <img width="300" height="300" src="./img/tuf gaming 2/TUF-Dash-4-300x300.jpg" class="img_thumbail">
+                                </div>
+                                <div class="product_body">
+                                    <div href="#">
+                                        <h2 class="product_title">Laptop Asus TUF Dash F15 FX516PC-HN002T RTX 3050 4GB Intel Core i5 11300H 8GB 512GB 15.6″ FHD IPS 144Hz Eclipse Gray Win 10</h2>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="product_price">
+                                <div class="price_discount">
+                                    <span class="giamgia" id="gia2">
+                                        24,000,000<sup>đ</sup>
+                                    </span>
+                                    <a href="#" class="giohang" aria-label="Thêm vào giỏ hàng">
+                                        <i class="bi bi-cart-plus-fill"></i>
+                                    </a>
+                                </div>
+                                <div class="price_non-discount">
+                                    27,000,000<sup>đ</sup>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+
+                <li class="product type-product">
+                    <div class="product_outer">
+                        <div class="product-inner product-item__inner">
+                            <a href="#">
+                                <div class="product-thumbnail">
+                                    <span class="sale">
+                                    -
+                                    <span id="giamgia" class="phan_tram">
+                                        3%
+                                    </span>
+                                    </span>
+                                    <img width="300" height="300" src="./img/tuf gaming 3/TUF-Dash-White-2-300x300.jpg" class="img_thumbail">
+                                </div>
+                                <div class="product_body">
+                                    <div href="#">
+                                        <h2 class="product_title">Laptop Asus TUF Dash F15 FX516PC-HN011T RTX 3050 4GB Intel Core i5 11300H 8GB 512GB 15.6″ FHD IPS 144Hz Moonlight White Win 10</h2>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="product_price">
+                                <div class="price_discount">
+                                    <span class="giamgia" id="gia2">
+                                        24,000,000<sup>đ</sup>
+                                    </span>
+                                    <a href="#" class="giohang" aria-label="Thêm vào giỏ hàng">
+                                        <i class="bi bi-cart-plus-fill"></i>
+                                    </a>
+                                </div>
+                                <div class="price_non-discount">
+                                    27,000,000<sup>đ</sup>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+
+                <li class="product type-product">
+                    <div class="product_outer">
+                        <div class="product-inner product-item__inner">
+                            <a href="#">
+                                <div class="product-thumbnail">
+                                    <span class="sale">
+                                    -
+                                    <span id="giamgia" class="phan_tram">
+                                        3%
+                                    </span>
+                                    </span>
+                                    <img width="300" height="300" src="./img/rog zephyrius duo/Zephyrus-Duo-1-300x300.jpg" class="img_thumbail">
+                                </div>
+                                <div class="product_body">
+                                    <div href="#">
+                                        <h2 class="product_title">Laptop Asus ROG Zephyrus Duo 15 SE GX551QR-HF080T RTX 3070 8GB AMD Ryzen 9 5900HX 32GB 1TB SSD 15.6” IPS FHD 300Hz Perkey Win 10</h2>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="product_price">
+                                <div class="price_discount">
+                                    <span class="giamgia" id="gia2">
+                                        24,000,000<sup>đ</sup>
+                                    </span>
+                                    <a href="#" class="giohang" aria-label="Thêm vào giỏ hàng">
+                                        <i class="bi bi-cart-plus-fill"></i>
+                                    </a>
+                                </div>
+                                <div class="price_non-discount">
+                                    27,000,000<sup>đ</sup>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+
+                <li class="product type-product">
+                    <div class="product_outer">
+                        <div class="product-inner product-item__inner">
+                            <a href="#">
+                                <div class="product-thumbnail">
+                                    <span class="sale">
+                                    -
+                                    <span id="giamgia" class="phan_tram">
+                                        3%
+                                    </span>
+                                    </span>
+                                    <img width="300" height="300" src="./img/laptop g15 g513/Strix-G-1-300x300_thumbail.jpg" class="img_thumbail">
+                                </div>
+                                <div class="product_body">
+                                    <div href="#">
+                                        <h2 class="product_title">ROG Strix G15 G513IH-HN015T Geforce GTX 1650 4GB AMD R7 4800H 8GB 512GB 15.6″ 144Hz FHD IPS 4 Zones Win 10</h2>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="product_price">
+                                <div class="price_discount">
+                                    <span class="giamgia" id="gia2">
+                                        24,000,000<sup>đ</sup>
+                                    </span>
+                                    <a href="#" class="giohang" aria-label="Thêm vào giỏ hàng">
+                                        <i class="bi bi-cart-plus-fill"></i>
+                                    </a>
+                                </div>
+                                <div class="price_non-discount">
+                                    27,000,000<sup>đ</sup>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>

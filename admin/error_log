@@ -1,0 +1,549 @@
+[04-Oct-2021 20:23:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[04-Oct-2021 20:23:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[04-Oct-2021 20:23:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[04-Oct-2021 20:23:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[04-Oct-2021 20:23:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[04-Oct-2021 20:23:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[05-Oct-2021 09:02:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[05-Oct-2021 09:02:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[05-Oct-2021 09:02:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[05-Oct-2021 09:02:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[05-Oct-2021 09:02:43 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 09:02:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[05-Oct-2021 09:02:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[05-Oct-2021 09:02:50 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 09:02:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[05-Oct-2021 09:02:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[05-Oct-2021 09:03:01 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 09:03:03 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 09:03:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[05-Oct-2021 09:03:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[05-Oct-2021 09:03:06 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 09:03:28 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 09:03:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[05-Oct-2021 09:03:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[05-Oct-2021 11:53:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[05-Oct-2021 11:53:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[05-Oct-2021 11:53:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[05-Oct-2021 11:53:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[05-Oct-2021 11:53:40 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 11:53:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[05-Oct-2021 11:53:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[05-Oct-2021 11:53:46 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 11:53:46 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[05-Oct-2021 11:53:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[05-Oct-2021 11:55:09 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 11:55:12 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 11:55:17 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 11:55:19 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 11:55:22 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 12:00:49 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 12:00:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[05-Oct-2021 12:00:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[05-Oct-2021 12:06:01 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 12:06:04 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 12:06:08 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 12:06:20 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 12:06:37 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 12:06:39 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 12:07:06 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[05-Oct-2021 12:17:04 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 14:06:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[06-Oct-2021 14:06:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[06-Oct-2021 14:06:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[06-Oct-2021 14:06:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[06-Oct-2021 14:06:56 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 14:06:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[06-Oct-2021 14:06:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[06-Oct-2021 14:11:52 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 14:11:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[06-Oct-2021 14:11:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[06-Oct-2021 14:28:46 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 14:29:05 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 14:50:08 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 14:50:11 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 14:50:13 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 14:50:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $result_brand in /home/laptopac/public_html/admin/nhanvien_edit.php on line 65
+[06-Oct-2021 14:50:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/laptopac/public_html/admin/nhanvien_edit.php on line 65
+[06-Oct-2021 14:50:17 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:04:58 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:04:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[06-Oct-2021 15:04:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[06-Oct-2021 15:05:33 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:05:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[06-Oct-2021 15:05:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[06-Oct-2021 15:07:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[06-Oct-2021 15:07:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[06-Oct-2021 15:07:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[06-Oct-2021 15:07:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[06-Oct-2021 15:07:31 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:07:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[06-Oct-2021 15:07:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[06-Oct-2021 15:54:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[06-Oct-2021 15:54:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[06-Oct-2021 15:54:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[06-Oct-2021 15:54:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[06-Oct-2021 15:54:28 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:54:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[06-Oct-2021 15:54:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[06-Oct-2021 15:54:32 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:54:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[06-Oct-2021 15:54:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[06-Oct-2021 15:56:14 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:56:26 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:57:15 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:57:59 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[06-Oct-2021 15:58:14 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[07-Oct-2021 11:01:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[07-Oct-2021 11:01:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[07-Oct-2021 11:01:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[07-Oct-2021 11:01:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[07-Oct-2021 11:01:51 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[07-Oct-2021 11:01:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[07-Oct-2021 11:01:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[07-Oct-2021 11:01:57 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[07-Oct-2021 11:01:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[07-Oct-2021 11:01:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[07-Oct-2021 11:04:23 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[07-Oct-2021 11:04:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[07-Oct-2021 11:04:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[07-Oct-2021 11:06:24 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[07-Oct-2021 11:06:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[07-Oct-2021 11:06:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(25): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[07-Oct-2021 11:07:45 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[07-Oct-2021 11:09:43 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[07-Oct-2021 11:09:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[07-Oct-2021 11:09:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[07-Oct-2021 11:10:38 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[07-Oct-2021 11:10:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[07-Oct-2021 11:10:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[07-Oct-2021 11:10:53 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[07-Oct-2021 11:10:56 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 11:09:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[08-Oct-2021 11:09:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:09:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:09:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[08-Oct-2021 11:09:49 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 11:09:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[08-Oct-2021 11:09:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[08-Oct-2021 11:09:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[08-Oct-2021 11:09:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:09:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:09:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[08-Oct-2021 11:09:54 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 11:09:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[08-Oct-2021 11:09:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[08-Oct-2021 11:10:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[08-Oct-2021 11:10:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:10:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:10:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[08-Oct-2021 11:10:00 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 11:10:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[08-Oct-2021 11:10:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[08-Oct-2021 11:10:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[08-Oct-2021 11:10:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:10:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:10:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[08-Oct-2021 11:10:07 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 11:10:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[08-Oct-2021 11:10:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[08-Oct-2021 11:10:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[08-Oct-2021 11:10:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:10:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 11:10:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[08-Oct-2021 11:10:13 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 11:10:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[08-Oct-2021 11:10:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[08-Oct-2021 15:10:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[08-Oct-2021 15:10:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 15:10:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[08-Oct-2021 15:10:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[08-Oct-2021 15:10:52 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 15:10:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[08-Oct-2021 15:10:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[08-Oct-2021 15:10:56 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 15:10:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[08-Oct-2021 15:10:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[08-Oct-2021 15:10:59 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 15:11:03 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[08-Oct-2021 15:11:08 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[09-Oct-2021 10:15:23 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[09-Oct-2021 10:15:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[09-Oct-2021 10:15:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[12-Oct-2021 15:55:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[12-Oct-2021 15:55:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[12-Oct-2021 15:55:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[12-Oct-2021 15:55:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[12-Oct-2021 15:55:21 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 15:55:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[12-Oct-2021 15:55:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[12-Oct-2021 15:55:32 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 15:55:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[12-Oct-2021 15:55:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[12-Oct-2021 15:55:41 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 15:55:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[12-Oct-2021 15:55:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[12-Oct-2021 15:55:45 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 15:55:54 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 15:55:57 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 15:55:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[12-Oct-2021 15:55:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[12-Oct-2021 23:18:19 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 23:18:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[12-Oct-2021 23:18:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[12-Oct-2021 23:18:31 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 23:18:38 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 23:18:46 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 23:18:52 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 23:27:25 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 23:27:29 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 23:38:31 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[12-Oct-2021 23:38:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laptopac/public_html/class/chart.php on line 7
+[12-Oct-2021 23:38:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/laptopac/public_html/class/chart.php:17
+Stack trace:
+#0 /home/laptopac/public_html/class/chart.php(17): mysqli_query()
+#1 /home/laptopac/public_html/admin/index.php(3): include('/home/laptopac/...')
+#2 {main}
+  thrown in /home/laptopac/public_html/class/chart.php on line 17
+[13-Oct-2021 00:01:37 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 09:21:31 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 09:21:52 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 09:22:29 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 09:22:32 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 09:22:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $result_brand in /home/laptopac/public_html/admin/nhanvien_edit.php on line 65
+[13-Oct-2021 09:22:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/laptopac/public_html/admin/nhanvien_edit.php on line 65
+[13-Oct-2021 09:22:38 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 09:22:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $result_brand in /home/laptopac/public_html/admin/nhanvien_edit.php on line 65
+[13-Oct-2021 09:22:38 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/laptopac/public_html/admin/nhanvien_edit.php on line 65
+[13-Oct-2021 09:25:46 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 09:25:46 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $result_brand in /home/laptopac/public_html/admin/nhanvien_edit.php on line 65
+[13-Oct-2021 09:25:46 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/laptopac/public_html/admin/nhanvien_edit.php on line 65
+[13-Oct-2021 09:27:03 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 09:27:23 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 09:28:11 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 10:06:54 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 11:18:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[13-Oct-2021 11:18:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[13-Oct-2021 11:18:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[13-Oct-2021 11:18:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[13-Oct-2021 11:18:05 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 11:18:10 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 11:51:13 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 13:57:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[13-Oct-2021 13:57:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[13-Oct-2021 13:57:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[13-Oct-2021 13:57:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[13-Oct-2021 13:57:40 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 13:57:50 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 14:01:05 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 16:36:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[13-Oct-2021 16:36:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[13-Oct-2021 16:36:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[13-Oct-2021 16:36:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 312
+[13-Oct-2021 16:36:52 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 23:21:08 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 23:21:12 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 23:21:15 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 23:21:24 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/laptopac/public_html/admin/inc/header.php:77) in /home/laptopac/public_html/library/database.php on line 4
+[13-Oct-2021 23:33:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method cart::order_notification() in /home/laptopac/public_html/admin/inc/header.php:215
+Stack trace:
+#0 /home/laptopac/public_html/admin/customer_list.php(1): include()
+#1 {main}
+  thrown in /home/laptopac/public_html/admin/inc/header.php on line 215
+[13-Oct-2021 23:33:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method cart::order_notification() in /home/laptopac/public_html/admin/inc/header.php:215
+Stack trace:
+#0 /home/laptopac/public_html/admin/index.php(1): include()
+#1 {main}
+  thrown in /home/laptopac/public_html/admin/inc/header.php on line 215
+[13-Oct-2021 23:34:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method cart::order_notification() in /home/laptopac/public_html/admin/inc/header.php:215
+Stack trace:
+#0 /home/laptopac/public_html/admin/index.php(1): include()
+#1 {main}
+  thrown in /home/laptopac/public_html/admin/inc/header.php on line 215
+[14-Oct-2021 13:14:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot declare class cart, because the name is already in use in /home/laptopac/public_html/class/cart.php on line 13
+[14-Oct-2021 16:42:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot declare class cart, because the name is already in use in /home/laptopac/public_html/class/cart.php on line 13
+[14-Oct-2021 16:42:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot declare class cart, because the name is already in use in /home/laptopac/public_html/class/cart.php on line 13
+[14-Oct-2021 16:43:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $cart in /home/laptopac/public_html/admin/order_list.php on line 66
+[14-Oct-2021 16:43:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function get_order_with_in4() on null in /home/laptopac/public_html/admin/order_list.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/laptopac/public_html/admin/order_list.php on line 66
+[14-Oct-2021 16:44:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot declare class cart, because the name is already in use in /home/laptopac/public_html/class/cart.php on line 13
+[16-Oct-2021 13:49:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[16-Oct-2021 13:49:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[16-Oct-2021 13:49:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[16-Oct-2021 13:49:49 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[16-Oct-2021 13:49:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[16-Oct-2021 13:49:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[16-Oct-2021 13:49:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[16-Oct-2021 13:49:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[16-Oct-2021 15:36:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[16-Oct-2021 15:36:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[16-Oct-2021 15:36:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[16-Oct-2021 15:36:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[17-Oct-2021 21:38:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[17-Oct-2021 21:38:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[17-Oct-2021 21:38:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[17-Oct-2021 21:38:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[20-Oct-2021 21:03:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[20-Oct-2021 21:03:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[20-Oct-2021 21:03:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[20-Oct-2021 21:03:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[20-Oct-2021 21:03:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[20-Oct-2021 21:03:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[20-Oct-2021 21:03:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[20-Oct-2021 21:03:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[21-Oct-2021 00:06:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[21-Oct-2021 00:06:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[21-Oct-2021 00:06:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[21-Oct-2021 00:06:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[21-Oct-2021 14:49:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[21-Oct-2021 14:49:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[21-Oct-2021 14:49:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[21-Oct-2021 14:49:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[21-Oct-2021 14:49:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[21-Oct-2021 14:49:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[21-Oct-2021 14:49:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[21-Oct-2021 14:49:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[24-Oct-2021 21:27:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[24-Oct-2021 21:27:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[24-Oct-2021 21:27:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[24-Oct-2021 21:27:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:11:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:11:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:11:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:11:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:12:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:12:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:12:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:12:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:14:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:14:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:14:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:14:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:20:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:20:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:20:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:20:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:21:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:21:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:21:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:21:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:21:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:21:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:21:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:21:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:27:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:27:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:27:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:27:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:28:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:28:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:28:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:28:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:28:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:28:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:28:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:28:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:32:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:32:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:32:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:32:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:33:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:33:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:33:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:33:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:33:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:33:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:33:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:33:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:39:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:39:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:39:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:39:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:41:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:41:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:41:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:41:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[26-Oct-2021 17:41:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[26-Oct-2021 17:41:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:41:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[26-Oct-2021 17:41:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[29-Oct-2021 13:45:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[29-Oct-2021 13:45:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[29-Oct-2021 13:45:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[29-Oct-2021 13:45:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309
+[29-Oct-2021 13:45:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminQuyen" in /home/laptopac/public_html/admin/inc/header.php on line 4
+[29-Oct-2021 13:45:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminHo" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[29-Oct-2021 13:45:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminName" in /home/laptopac/public_html/admin/inc/header.php on line 306
+[29-Oct-2021 13:45:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "adminImage" in /home/laptopac/public_html/admin/inc/header.php on line 309

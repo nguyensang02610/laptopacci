@@ -1,0 +1,183 @@
+body {
+    font-family: var(--bs-font-sans-serif);
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+}
+
+.imgheader img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 20px;
+}
+
+ul.products {
+    list-style: none;
+    margin: 0% 10% 0% 10%;
+}
+
+ul.products {
+    align-items: stretch;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+    flex-direction: row;
+}
+
+ul.products>li.product {
+    position: relative;
+}
+
+.products>.product {
+    border-bottom-width: 0;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.product_outer {
+    height: 100%;
+}
+
+.product-inner {
+    padding: 1.3em 1.6em 1.2em 1.6em;
+}
+
+.product .product-thumbnail {
+    margin-bottom: .714em;
+    width: 100%;
+    position: relative;
+}
+
+.img_thumbail {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.product .sale {
+    font-size: .857em;
+    line-height: 2em;
+    min-width: 30px;
+    background-color: #44b81b;
+    color: #fff;
+    position: absolute;
+    margin: 0;
+    border-radius: 4px;
+    font-weight: 700;
+    padding: 2px 7px;
+}
+
+.phan_tram {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.product_title {
+    font-size: 1em;
+    line-height: 1.28572em;
+    height: 2.57144em;
+    font-weight: 700;
+    overflow: hidden;
+    color: #000;
+}
+
+.product_price {
+    height: 50px;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
+
+.price_discount {
+    color: rgb(237, 0, 0) !important;
+    font-size: 25px !important;
+    font-weight: bold;
+    line-height: 1.4;
+    display: flex;
+    justify-content: space-between;
+}
+
+.giohang {
+    color: rgb(237, 0, 0) !important;
+    font-size: 30px;
+}
+
+.price_non-discount {
+    font-size: 18px;
+    text-align: left;
+    color: #bababa;
+    text-decoration-line: line-through;
+    align-items: center;
+}
+
+.product_info table {
+    text-align: center;
+    table-layout: fixed;
+    vertical-align: middle;
+    height: 12em;
+    padding: .3em;
+    background: #f9f9f9;
+    border-radius: 12px;
+    display: table;
+    border-spacing: 5px;
+    border-collapse: separate;
+}
+
+.left_item {
+    padding: 0;
+    vertical-align: inherit;
+    border-top: none;
+}
+
+.left_item img {
+    width: 30px;
+    max-width: inherit;
+    height: auto;
+}
+
+.right_item {
+    text-align: center;
+    vertical-align: center;
+    border-top: none;
+    padding: 0;
+    width: 50%;
+    font-size: 10pt;
+}
+
+.table>:not(caption)>*>*,
+table>:not(caption)>*>* {
+    padding: .5rem .5rem;
+    background-color: var(--bs-table-bg);
+    border-bottom-width: 1px;
+    box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+}
+
+.txt_alter {
+    text-align: center;
+    color: rgb(231, 22, 22);
+    margin-top: 16%;
+    margin-bottom: 18%;
+}
+
+.txt_alter h2 :hover {
+    color: firebrick;
+}
+
+.havesp {
+    margin-top: 20px;
+    color: rgb(230, 30, 30);
+    margin-bottom: 5px;
+    margin-left: 11%;
+}
