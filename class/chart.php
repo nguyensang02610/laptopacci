@@ -1,9 +1,9 @@
 <?php
 /* Database connection settings */
 $host = 'localhost';
-$user = 'laptopac_db';
-$pass = 'Tbd]EFI$s&]n';
-$db = 'laptopac_db';
+$user = 'root';
+$pass = '';
+$db = 'webnc';
 $mysqli = new mysqli($host,$user,$pass,$db) or die($mysqli->error);
 //Khởi tạo dữ liệu rỗng
 $data1 = '';
@@ -11,7 +11,7 @@ $data2 = '';
 $thang = '';
 $brand = '';
 //query to get data from the table
-$sql = "SELECT concat('Tháng ',MONTH(date_order)) as 'thang', sum(price) as 'data2' FROM tbl_order GROUP BY MONTH(date_order)";
+$sql = "SELECT concat('Tháng ',MONTH(date_order)) as 'thang', sum(price) as 'data2' FROM tbl_order GROUP BY date_order";
 $sql_1 = "SELECT brand , sum(sp_daban) as 'data1' FROM tbl_product GROUP BY brand ";
 
 $result = mysqli_query($mysqli, $sql);

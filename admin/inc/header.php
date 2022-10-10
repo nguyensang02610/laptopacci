@@ -38,7 +38,6 @@ $order = new cart();
     <link href="./css/loading.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="./js/loading.js"></script>
-    <link href="../img/favicon.png" rel="shortcut icon" type="image/x-icon">
 
 </head>
 
@@ -53,7 +52,7 @@ $order = new cart();
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php" style="<?php if($quyen == 1) echo 'pointer-events: none;color: #858796' ?>" >
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php" style="<?php if ($quyen == 1) echo 'pointer-events: none;color: #858796' ?>">
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="bi bi-heart-fill"></i>
                     <!-- <i class="fas fa-laugh-wink"></i> -->
@@ -66,7 +65,7 @@ $order = new cart();
 
             <!-- Nav Item - Dashboard -->
             <li class="nav-item active">
-                <a style="<?php if($quyen == 1) echo 'pointer-events: none;color: #858796' ?>" class="nav-link" href="index.php" >
+                <a style="<?php if ($quyen == 1) echo 'pointer-events: none;color: #858796' ?>" class="nav-link" href="index.php">
                     <i class="bi bi-bar-chart-fill"></i>
                     <span>Thống kê</span>
                 </a>
@@ -80,13 +79,18 @@ $order = new cart();
             </div>
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
-                <a style="<?php if($quyen == 2) echo 'pointer-events: none;color: #858796' ?>" class="nav-link" href="danhmucsp.php">
+                <a style="<?php if ($quyen == 2) echo 'pointer-events: none;color: #858796' ?>" class="nav-link" href="danhmucsp.php">
                     <i class="bi bi-card-text"></i>
                     <span>Danh mục sản phẩm</span></a>
             </li>
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
+                <a style="<?php if ($quyen == 2) echo 'pointer-events: none;color: #858796' ?>" class="nav-link" href="product_list.php">
+                    <i class="bi bi-card-text"></i>
+                    <span>Sản phẩm</span></a>
+            </li>
+            <!-- <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                     <i class="bi bi-box-seam"></i>
                     <span>Sản phẩm</span>
@@ -98,7 +102,7 @@ $order = new cart();
                         <a class="collapse-item" href="product_list.php">Danh sách sản phẩm</a>
                     </div>
                 </div>
-            </li>
+            </li> -->
 
             <!-- Nav Item - Utilities Collapse Menu -->
             <li class="nav-item">
@@ -128,7 +132,7 @@ $order = new cart();
             </div>
 
             <li class="nav-item">
-                <a style="<?php if($quyen == 1 || $quyen == 2) echo 'pointer-events: none;color: #858796' ?>" class="nav-link" href="nhanvien.php">
+                <a style="<?php if ($quyen == 1 || $quyen == 2) echo 'pointer-events: none;color: #858796' ?>" class="nav-link" href="nhanvien.php">
                     <i class="bi bi-people-fill"></i>
                     <span>Danh sách nhân viên</span></a>
             </li>
@@ -137,7 +141,7 @@ $order = new cart();
 
             <!-- Nav Web site -->
             <li class="nav-item">
-                <a class="nav-link" href="../index.php" target="_blank">
+                <a class="nav-link" href="/laptopacci/index.php" target="_blank">
                     <i class="bi bi-arrow-up-right-circle"></i>
                     <span>Website</span></a>
             </li>
@@ -214,7 +218,7 @@ $order = new cart();
                             <!-- Dropdown - Alerts -->
                             <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="alertsDropdown">
                                 <h6 class="dropdown-header">
-                                    Trung tâm thông báo
+                                    Thông báo
                                 </h6>
                                 <?php
                                 $order_list = $order->order_notification();
@@ -236,7 +240,7 @@ $order = new cart();
                                         }
                                     }
                                     ?>
-                                <a class="dropdown-item text-center small text-gray-500" href="#">Tất cả thông báo</a>
+                                        <a class="dropdown-item text-center small text-gray-500" href="#">Show All Alerts</a>
                             </div>
                         </li>
 
@@ -250,48 +254,28 @@ $order = new cart();
                             <!-- Dropdown - Messages -->
                             <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="messagesDropdown">
                                 <h6 class="dropdown-header">
-                                    Message Center
+                                    Khách hàng mới
                                 </h6>
-                                <a class="dropdown-item d-flex align-items-center" href="#">
-                                    <div class="dropdown-list-image mr-3">
-                                        <img class="rounded-circle" src="img/undraw_profile_1.svg" alt="...">
-                                        <div class="status-indicator bg-success"></div>
-                                    </div>
-                                    <div class="font-weight-bold">
-                                        <div class="text-truncate">Hi there! I am wondering if you can help me with a problem I've been having.</div>
-                                        <div class="small text-gray-500">Emily Fowler · 58m</div>
-                                    </div>
-                                </a>
-                                <a class="dropdown-item d-flex align-items-center" href="#">
-                                    <div class="dropdown-list-image mr-3">
-                                        <img class="rounded-circle" src="img/undraw_profile_2.svg" alt="...">
-                                        <div class="status-indicator"></div>
-                                    </div>
-                                    <div>
-                                        <div class="text-truncate">I have the photos that you ordered last month, how would you like them sent to you?</div>
-                                        <div class="small text-gray-500">Jae Chun · 1d</div>
-                                    </div>
-                                </a>
-                                <a class="dropdown-item d-flex align-items-center" href="#">
-                                    <div class="dropdown-list-image mr-3">
-                                        <img class="rounded-circle" src="img/undraw_profile_3.svg" alt="...">
-                                        <div class="status-indicator bg-warning"></div>
-                                    </div>
-                                    <div>
-                                        <div class="text-truncate">Last month's report looks great, I am very happy with the progress so far, keep up the good work!</div>
-                                        <div class="small text-gray-500">Morgan Alvarez · 2d</div>
-                                    </div>
-                                </a>
-                                <a class="dropdown-item d-flex align-items-center" href="#">
-                                    <div class="dropdown-list-image mr-3">
-                                        <img class="rounded-circle" src="https://source.unsplash.com/Mv9hjnEUHR4/60x60" alt="...">
-                                        <div class="status-indicator bg-success"></div>
-                                    </div>
-                                    <div>
-                                        <div class="text-truncate">Am I a good boy? The reason I ask is because someone told me that people say this to all dogs, even if they aren't good...</div>
-                                        <div class="small text-gray-500">Chicken the Dog · 2w</div>
-                                    </div>
-                                </a>
+                                <?php
+                                $order_list = $order->order_notification();
+                                if ($order_list) {
+                                    while ($result = $order_list->fetch_assoc()) {
+                                ?>
+                                    <a class="dropdown-item d-flex align-items-center" href="#">
+                                        <div class="mr-3">
+                                            <div class="icon-circle bg-primary">
+                                                <i class="fas fa-file-alt text-white"></i>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <div class="small text-gray-500"><?php echo $result['date_order'] ?></div>
+                                            <span class="font-weight-bold"><?php echo $result['ho_ten'] ?> vừa đặt 1 đơn hàng!</span>
+                                        </div>
+                                    </a>
+                                    <?php
+                                        }
+                                    }
+                                    ?>
                                 <a class="dropdown-item text-center small text-gray-500" href="#">Read More Messages</a>
                             </div>
                         </li>

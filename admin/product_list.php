@@ -32,6 +32,7 @@ else
 
 <!-- Begin Page Content -->
 <div class="container-fluid">
+    <a href="product_add.php"><button type="button" class="btn btn-outline-success" style="margin-bottom : 20px"><i class="bi bi-plus-lg"></i>&nbsp Thêm sản phẩm</button></a>
     <!-- Page Heading -->
     <!-- <h1 class="h3 mb-2 text-gray-800">Tables</h1>
     <p class="mb-4">DataTables is a third party plugin that is used to generate the demo table below.

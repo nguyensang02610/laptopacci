@@ -1,0 +1,47 @@
+.image_product {
+    width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image_product-1 {
+    width: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image_product-2 {
+    width: 320px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
+}
+
+.btn_1 {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 5px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block
+}
+
+.btn_2 {
+    margin-top: 20px;
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 5px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block
+}
+
+.search-bar {
+    padding: 1.25rem;
+    float: right
+}

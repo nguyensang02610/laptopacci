@@ -1,4 +1,4 @@
-<?php include 'inc/header.php'; ?>
+<?php include './inc/header.php'; ?>
 <?php include '../class/thongke.php'; ?>
 <?php include '../class/chart.php'; ?>
 
@@ -148,27 +148,6 @@
             </div>
         </div>
         <!-- Pie Chart -->
-    </div>
-
-    <!-- Content Row -->
-    <div class="card shadow mb-4">
-        <div class="card-header py-3">
-            <h6 class="m-0 font-weight-bold text-primary">Thống kê doanh số bán hàng theo hãng </h6>
-        </div>
-        <div class="card-body">
-            <div class="chart-bar">
-                <div class="chartjs-size-monitor">
-                    <div class="chartjs-size-monitor-expand">
-                        <div class=""></div>
-                    </div>
-                    <div class="chartjs-size-monitor-shrink">
-                        <div class=""></div>
-                    </div>
-                </div>
-                <canvas id="myBarChart" width="1420" height="352" style="display: block; height: 320px; width: 1420px;" class="chartjs-render-monitor"></canvas>
-            </div>
-            <hr>
-        </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1/dist/chart.min.js"></script>
